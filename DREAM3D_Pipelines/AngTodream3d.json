@@ -12,7 +12,7 @@
         "Filter_Human_Label": "Import EDAX EBSD Data (.ang)",
         "Filter_Name": "ReadAngData",
         "Filter_Uuid": "{b8e128a8-c2a3-5e6c-a7ad-e4fb864e5d40}",
-        "InputFile": "/home/texturelab/Desktop/Shubhendu/Ti_5A_2_5Sn/IMI817_2Hr/Preprocessing/IMI817_34um_coarse_clean.ang"
+        "InputFile": "/home/texturelab/Desktop/Shubhendu/Ti_5A_2_5Sn/IMI817_2Hr/examples/IMI817_34um_cleaned.ang"
     },
     "1": {
         "CellEulerAnglesArrayPath": {
@@ -54,12 +54,12 @@
         "Filter_Human_Label": "Write DREAM.3D Data File",
         "Filter_Name": "DataContainerWriter",
         "Filter_Uuid": "{3fcd4c43-9d75-5b86-aad4-4441bc914f37}",
-        "OutputFile": "/home/texturelab/Desktop/Shubhendu/Ti_5A_2_5Sn/IMI817_2Hr/Preprocessing/IMI817_34um.dream3d",
+        "OutputFile": "/home/texturelab/Desktop/Shubhendu/Ti_5A_2_5Sn/IMI817_2Hr/examples/IMI817_34um.dream3d",
         "WriteTimeSeries": 0,
         "WriteXdmfFile": 1
     },
     "PipelineBuilder": {
-        "Name": "Ang2Dto2Ddream3d",
+        "Name": "AngTodream3d",
         "Number_Filters": 3,
         "Version": 6
     }
