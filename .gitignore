@@ -16,4 +16,8 @@
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
+
+# Don't include ipynb checkpoints
+.ipynb_checkpoints
+
 # End of https://www.toptal.com/developers/gitignore/api/linux
