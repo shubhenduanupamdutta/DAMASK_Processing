@@ -15,3 +15,9 @@
 - ## Getting out a .ang file (needs input .ang file, which we converted to dream3d file) which has resultant texture and CI and IQ replaced as vM stress and strain.
 - ## Creating a resultant vM Stress vs Strain Graph
 
+<<<<<<< HEAD
+=======
+
+# Checking if branching works or not.
+Let's add one thing and see what happens
+>>>>>>> 32649f1 (Still Checking)
